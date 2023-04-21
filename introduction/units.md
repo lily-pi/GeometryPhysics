@@ -27,3 +27,5 @@ $$
 $$
 1\cdot \mathrm{b} = 135 \cdot \mathrm{p}
 $$
+
+Generally computations are done in blocks, but it may be useful to use either pixels or the Delta unit, especially for internal computation. The pixel unit is most useful for visual editing, but it has some relevance with Cocos2dx.
