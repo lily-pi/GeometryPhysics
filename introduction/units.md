@@ -1,7 +1,3 @@
----
-description: Gives a general overview of units and their conversions.
----
-
 # Units
 
 Geometry Dash has three immediate units obvious for measurement: pixels, blocks, and (internal) variables. We describe the notation for each one here, and their conversions.
