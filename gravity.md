@@ -1,7 +1,3 @@
----
-description: Describes the gravity function.
----
-
 # Gravity
 
 The gravity constant, $g$, varies between game modes.
